@@ -10,3 +10,4 @@
 
 # misc
 yarn.lock
+.env
